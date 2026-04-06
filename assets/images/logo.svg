@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 50" fill="none">
+  <!--
+    NE block arrow: north-pointing arrow rotated -45deg (CCW) around center (25,25).
+    Original north arrow polygon: 25,0  48,22  35,22  35,48  15,48  15,22  2,22
+    After CCW 45deg rotation: TIP=43,7  L-notch=11,7  SH-UL=20,16  SH-LL=2,34  SH-LR=16,48  SH-UR=34,30  R-notch=43,39
+  -->
+  <polygon
+    points="43,7 11,7 20,16 2,34 16,48 34,30 43,39"
+    fill="#F5A500"/>
+  <!-- LeadForce bold white on dark background -->
+  <text
+    x="60" y="34"
+    font-family="'Arial Black', 'Franklin Gothic Heavy', Impact, 'Helvetica Neue', Arial, sans-serif"
+    font-weight="900"
+    font-size="27"
+    letter-spacing="-0.5"
+    fill="#FFFFFF">LeadForce</text>
+</svg>
